@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Tin Nguyen</title>
+    <link>https://tinnguyen96.github.io/event/</link>
+      <atom:link href="https://tinnguyen96.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://tinnguyen96.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Are you using test log-likelihood correctly?</title>
+      <link>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</link>
+      <pubDate>Sat, 03 Dec 2022 08:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many processors, little time: MCMC for partitions via optimal transport couplings</title>
+      <link>https://tinnguyen96.github.io/talk/many-processors-little-time-mcmc-for-partitions-via-optimal-transport-couplings/</link>
+      <pubDate>Tue, 28 Jun 2022 13:30:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/many-processors-little-time-mcmc-for-partitions-via-optimal-transport-couplings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many processors, little time: MCMC for partitions via optimal transport couplings</title>
+      <link>https://tinnguyen96.github.io/talk/many-processors-little-time-mcmc-for-partitions-via-optimal-transport-couplings/</link>
+      <pubDate>Tue, 29 Mar 2022 08:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/many-processors-little-time-mcmc-for-partitions-via-optimal-transport-couplings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent finite approximations for Bayesian nonparametric inference</title>
+      <link>https://tinnguyen96.github.io/talk/independent-finite-approximations-for-bayesian-nonparametric-inference/</link>
+      <pubDate>Tue, 17 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/independent-finite-approximations-for-bayesian-nonparametric-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
