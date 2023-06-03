@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tinnguyen96.github.io/publication-type/1/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/regularization-and-constraints/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication_types/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication-type/2/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/finite-crm-approximations/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/source-themes/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tags/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</loc>
     <lastmod>2022-12-03T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,26 +58,6 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/publication/finite-crm-approximations/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/publication_types/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/publication/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/source-themes/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tags/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/tag/test-log-likelihood/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -60,10 +72,6 @@
   </url><url>
     <loc>https://tinnguyen96.github.io/talk/many-processors-little-time-mcmc-for-partitions-via-optimal-transport-couplings/</loc>
     <lastmod>2022-03-29T08:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/publication-type/1/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/tag/gaussian-process/</loc>
@@ -132,6 +140,14 @@
   </url><url>
     <loc>https://tinnguyen96.github.io/talk/independent-finite-approximations-for-bayesian-nonparametric-inference/</loc>
     <lastmod>2020-11-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication-type/4/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/coupling-crp-chains-aabi/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/post/writing-technical-content/</loc>

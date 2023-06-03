@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>On regularization and inference with label constraints</title>
+      <link>https://tinnguyen96.github.io/publication/regularization-and-constraints/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/regularization-and-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent finite approximations for Bayesian nonparametric inference</title>
+      <link>https://tinnguyen96.github.io/publication/finite-crm-approximations/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/finite-crm-approximations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Are you using test log-likelihood correctly?</title>
       <link>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</link>
       <pubDate>Sat, 03 Dec 2022 08:00:00 +0000</pubDate>
@@ -25,14 +41,6 @@
       <link>https://tinnguyen96.github.io/publication/test-log-likelihood/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://tinnguyen96.github.io/publication/test-log-likelihood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Independent finite approximations for Bayesian nonparametric inference</title>
-      <link>https://tinnguyen96.github.io/publication/finite-crm-approximations/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://tinnguyen96.github.io/publication/finite-crm-approximations/</guid>
       <description></description>
     </item>
     
@@ -165,6 +173,14 @@
     </item>
     
     <item>
+      <title>Optimal transport couplings of Gibbs samplers on partitions for unbiased estimation</title>
+      <link>https://tinnguyen96.github.io/publication/coupling-crp-chains-aabi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/coupling-crp-chains-aabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
       <link>https://tinnguyen96.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -268,7 +284,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-462913587&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-582139764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -278,7 +294,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-462913587&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-582139764&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
