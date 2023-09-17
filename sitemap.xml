@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tinnguyen96.github.io/tag/gradient-boosting-machine/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/project/parcel-price/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/project/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/real-estate/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/supervised-learning/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tags/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tinnguyen96.github.io/publication-type/1/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,7 +42,15 @@
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tinnguyen96.github.io/tag/statistical-learning-theory/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tinnguyen96.github.io/publication-type/2/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/bayesian-statistics/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,11 +58,15 @@
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/source-themes/</loc>
+    <loc>https://tinnguyen96.github.io/tag/nonparametric/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tags/</loc>
+    <loc>https://tinnguyen96.github.io/tag/topic-models/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/unsupervised-learning/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,19 +82,11 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/approximation-quality/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/publication/test-log-likelihood/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/forecast-accuracy/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/test-log-likelihood/</loc>
+    <loc>https://tinnguyen96.github.io/tag/evaluation/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,7 +110,7 @@
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/mcmc/</loc>
+    <loc>https://tinnguyen96.github.io/tag/markov-chain-monte-carlo/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,47 +122,19 @@
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/unbiased-estimation/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/publication/approx-cv/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/leave-one-out-cross-validation/</loc>
+    <loc>https://tinnguyen96.github.io/tag/conditional-random-fields/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/structured-models/</loc>
+    <loc>https://tinnguyen96.github.io/tag/cross-validation/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/hidden-markov-models/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,14 +150,6 @@
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,15 +158,7 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/aggregation/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/tag/decision-trees/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/pac-bayes/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -182,27 +166,10 @@
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tinnguyen96.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tinnguyen96.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

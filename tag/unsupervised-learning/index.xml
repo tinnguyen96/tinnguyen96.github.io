@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unsupervised Learning | Tin Nguyen</title>
+    <link>https://tinnguyen96.github.io/tag/unsupervised-learning/</link>
+      <atom:link href="https://tinnguyen96.github.io/tag/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unsupervised Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Unsupervised Learning</title>
+      <link>https://tinnguyen96.github.io/tag/unsupervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Independent finite approximations for Bayesian nonparametric inference</title>
+      <link>https://tinnguyen96.github.io/publication/finite-crm-approximations/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/finite-crm-approximations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many processors, little time: MCMC for partitions via optimal transport couplings</title>
+      <link>https://tinnguyen96.github.io/publication/coupling-crp-chains/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/coupling-crp-chains/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
