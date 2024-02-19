@@ -5,12 +5,20 @@
     <link>https://tinnguyen96.github.io/publication/</link>
       <atom:link href="https://tinnguyen96.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://tinnguyen96.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Are you using test log-likelihood correctly?</title>
+      <link>https://tinnguyen96.github.io/publication/test-log-likelihood/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/test-log-likelihood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On regularization and inference with label constraints</title>
@@ -25,14 +33,6 @@
       <link>https://tinnguyen96.github.io/publication/finite-crm-approximations/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tinnguyen96.github.io/publication/finite-crm-approximations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are you using test log-likelihood correctly?</title>
-      <link>https://tinnguyen96.github.io/publication/test-log-likelihood/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://tinnguyen96.github.io/publication/test-log-likelihood/</guid>
       <description></description>
     </item>
     

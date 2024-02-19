@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Are you using test log-likelihood correctly?</title>
+      <link>https://tinnguyen96.github.io/publication/test-log-likelihood/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/test-log-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of MCMC analyses to data removal</title>
+      <link>https://tinnguyen96.github.io/talk/sensitivity-of-mcmc-analyses-to-data-removal/</link>
+      <pubDate>Mon, 13 Nov 2023 13:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/sensitivity-of-mcmc-analyses-to-data-removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parcel Price Prediction</title>
       <link>https://tinnguyen96.github.io/project/parcel-price/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
@@ -46,14 +62,6 @@ The most important predictive feature is the total living area.&lt;/p&gt;
       <link>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</link>
       <pubDate>Sat, 03 Dec 2022 08:00:00 +0000</pubDate>
       <guid>https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are you using test log-likelihood correctly?</title>
-      <link>https://tinnguyen96.github.io/publication/test-log-likelihood/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://tinnguyen96.github.io/publication/test-log-likelihood/</guid>
       <description></description>
     </item>
     
