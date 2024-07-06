@@ -5,12 +5,28 @@
     <link>https://tinnguyen96.github.io/</link>
       <atom:link href="https://tinnguyen96.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tin Nguyen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tin Nguyen</title>
       <link>https://tinnguyen96.github.io/</link>
     </image>
+    
+    <item>
+      <title>Using gradients to check sensitivity of MCMC-based analyses to removing data</title>
+      <link>https://tinnguyen96.github.io/publication/mcmc-amip/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/publication/mcmc-amip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis defense</title>
+      <link>https://tinnguyen96.github.io/talk/thesis-defense/</link>
+      <pubDate>Tue, 07 May 2024 08:00:00 +0000</pubDate>
+      <guid>https://tinnguyen96.github.io/talk/thesis-defense/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are you using test log-likelihood correctly?</title>
