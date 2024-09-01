@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="Poster presentation at ICBINB Workshop at NeurIPS 2022" />
+<meta name="description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/" />
-<link rel="canonical" href="https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/" />
+<link rel="alternate" hreflang="en-us" href="https://tinnguyen96.github.io/publication/drop-data-failure-modes/" />
+<link rel="canonical" href="https://tinnguyen96.github.io/publication/drop-data-failure-modes/" />
 
 
 
@@ -317,18 +317,18 @@
   <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Tin Nguyen" />
-<meta property="og:url" content="https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/" />
-<meta property="og:title" content="Are you using test log-likelihood correctly? | Tin Nguyen" />
-<meta property="og:description" content="Poster presentation at ICBINB Workshop at NeurIPS 2022" /><meta property="og:image" content="https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://tinnguyen96.github.io/publication/drop-data-failure-modes/" />
+<meta property="og:title" content="Approximations to worst-case data dropping: unmasking failure modes | Tin Nguyen" />
+<meta property="og:description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements." /><meta property="og:image" content="https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2022-12-10T00:00:00&#43;00:00"
+      content="2024-08-01T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2022-12-03T08:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-08-12T00:00:00&#43;00:00">
   
 
 
@@ -336,9 +336,12 @@
 
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -346,50 +349,52 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://tinnguyen96.github.io/talk/are-you-using-test-log-likelihood-correctly/"
+    "@id": "https://tinnguyen96.github.io/publication/drop-data-failure-modes/"
   },
-  "name": "Are you using test log-likelihood correctly?",
+  "headline": "Approximations to worst-case data dropping: unmasking failure modes",
   
-  "location": {
-    "@type": "Place",
-    "name": "New Orleans, LA"
-  },
+  "datePublished": "2024-08-01T00:00:00Z",
+  "dateModified": "2024-08-12T00:00:00Z",
   
-  
-  "startDate": "2022-12-03T08:00:00Z",
-  
-  "endDate": "2022-12-03T17:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
-    "name": "Tin Nguyen"
+    "name": "Jenny Y. Huang"
   },
   
-  "description": "Poster presentation at ICBINB Workshop at NeurIPS 2022"
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tin Nguyen",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements."
 }
 </script>
 
   
 
-
-
-
-  
-  
-  
-
-  
-  
-
   
 
 
+
+
   
-  <title>Are you using test log-likelihood correctly? | Tin Nguyen</title>
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Approximations to worst-case data dropping: unmasking failure modes | Tin Nguyen</title>
 
   
   
@@ -409,7 +414,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4cb47349c1238b9566ec957e6eeecb24" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e4ac8218508766a00df49d1ff48658c9" >
 
   
   
@@ -720,7 +725,16 @@
     
     
 
-    <div class="pub">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -742,7 +756,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Are you using test log-likelihood correctly?</h1>
+  <h1>Approximations to worst-case data dropping: unmasking failure modes</h1>
 
   
 
@@ -754,7 +768,29 @@
 
   
   
+  
+  
+  <div>
+    
 
+  <span >
+      Jenny Y. Huang</span>, <span >
+      David R. Burt</span>, <span class="author-highlighted">
+      Tin Nguyen</span>, <span >
+      Yunyi Shen</span>, <span >
+      Tamara Broderick</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    August, 2024
+  </span>
   
 
   
@@ -793,7 +829,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/uploads/test-log-likelihood/poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2408.09008" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -828,33 +864,21 @@
   <div class="article-container">
 
     
-      <br>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements.</p>
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Dec 3, 2022 8:00 AM &mdash; 5:00 PM
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
+    
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            
-            ICBINB Workshop at NeurIPS 2022
-            
+            <a href="/publication/#3">
+              Preprint
+            </a>
           </div>
         </div>
       </div>
@@ -863,32 +887,23 @@
     <div class="d-md-none space-below"></div>
     
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">New Orleans, LA</div>
-          
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-      
-    </div>
+    <div class="article-style"></div>
 
     
 
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/influence-function/">Influence Function</a>
+  
+</div>
 
 
 
@@ -907,7 +922,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F&amp;text=Are&#43;you&#43;using&#43;test&#43;log-likelihood&#43;correctly%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F&amp;text=Approximations&#43;to&#43;worst-case&#43;data&#43;dropping%3A&#43;unmasking&#43;failure&#43;modes" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -924,7 +939,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F&amp;t=Are&#43;you&#43;using&#43;test&#43;log-likelihood&#43;correctly%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F&amp;t=Approximations&#43;to&#43;worst-case&#43;data&#43;dropping%3A&#43;unmasking&#43;failure&#43;modes" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -943,7 +958,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Are%20you%20using%20test%20log-likelihood%20correctly%3F&amp;body=https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Approximations%20to%20worst-case%20data%20dropping%3A%20unmasking%20failure%20modes&amp;body=https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -960,7 +975,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F&amp;title=Are&#43;you&#43;using&#43;test&#43;log-likelihood&#43;correctly%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F&amp;title=Approximations&#43;to&#43;worst-case&#43;data&#43;dropping%3A&#43;unmasking&#43;failure&#43;modes" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -977,7 +992,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Are&#43;you&#43;using&#43;test&#43;log-likelihood&#43;correctly%3F%20https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Approximations&#43;to&#43;worst-case&#43;data&#43;dropping%3A&#43;unmasking&#43;failure&#43;modes%20https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -994,7 +1009,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftinnguyen96.github.io%2Ftalk%2Fare-you-using-test-log-likelihood-correctly%2F&amp;title=Are&#43;you&#43;using&#43;test&#43;log-likelihood&#43;correctly%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftinnguyen96.github.io%2Fpublication%2Fdrop-data-failure-modes%2F&amp;title=Approximations&#43;to&#43;worst-case&#43;data&#43;dropping%3A&#43;unmasking&#43;failure&#43;modes" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1014,6 +1029,19 @@
 
   
   
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
 
 
 
@@ -1123,6 +1151,19 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 

@@ -3,30 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tinnguyen96.github.io/publication-type/3/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/tag/bayesian-statistics/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tag/influence-function/</loc>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/tag/markov-chain-monte-carlo/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/publication_types/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/publication/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tinnguyen96.github.io/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tinnguyen96.github.io/publication/mcmc-amip/</loc>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/tags/</loc>
+    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/drop-data-failure-modes/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tinnguyen96.github.io/publication/mcmc-amip_diffae/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
