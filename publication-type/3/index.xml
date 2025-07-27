@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Approximations to worst-case data dropping: unmasking failure modes</title>
-      <link>https://tinnguyen96.github.io/publication/drop-data-failure-modes/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://tinnguyen96.github.io/publication/drop-data-failure-modes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Using gradients to check sensitivity of MCMC-based analyses to removing data</title>
       <link>https://tinnguyen96.github.io/publication/mcmc-amip_diffae/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>

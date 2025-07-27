@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: May 16, 2025 --><html lang="en-us" >
+<!-- Last Published: July 27, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements." />
+<meta name="description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Checking this non-robustness directly poses a combinatorial optimization problem and is intractable even for simple models and moderate data sizes. Recently various authors have proposed a diverse set of approximations to detect this non-robustness. In the present work, we show that, even in a setting as simple as ordinary least squares (OLS) linear regression, many of these approximations can fail to detect (true) non-robustness in realistic data arrangements. We focus on OLS in the present work due its widespread use and since some approximations work only for OLS. Across our synthetic and real-world data sets, we find that a simple recursive greedy algorithm is the sole algorithm that does not fail any of our tests and also that it can be orders of magnitude faster to run than some competitors." />
 
 
 
@@ -319,12 +319,12 @@
 <meta property="og:site_name" content="Tin Nguyen" />
 <meta property="og:url" content="https://tinnguyen96.github.io/publication/drop-data-failure-modes/" />
 <meta property="og:title" content="Approximations to worst-case data dropping: unmasking failure modes | Tin Nguyen" />
-<meta property="og:description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements." /><meta property="og:image" content="https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Checking this non-robustness directly poses a combinatorial optimization problem and is intractable even for simple models and moderate data sizes. Recently various authors have proposed a diverse set of approximations to detect this non-robustness. In the present work, we show that, even in a setting as simple as ordinary least squares (OLS) linear regression, many of these approximations can fail to detect (true) non-robustness in realistic data arrangements. We focus on OLS in the present work due its widespread use and since some approximations work only for OLS. Across our synthetic and real-world data sets, we find that a simple recursive greedy algorithm is the sole algorithm that does not fail any of our tests and also that it can be orders of magnitude faster to run than some competitors." /><meta property="og:image" content="https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-08-01T00:00:00&#43;00:00"
+      content="2025-07-20T00:00:00&#43;00:00"
     />
   
   
@@ -356,7 +356,7 @@
   },
   "headline": "Approximations to worst-case data dropping: unmasking failure modes",
   
-  "datePublished": "2024-08-01T00:00:00Z",
+  "datePublished": "2025-07-20T00:00:00Z",
   "dateModified": "2024-08-12T00:00:00Z",
   
   "author": {
@@ -372,7 +372,7 @@
       "url": "https://tinnguyen96.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements."
+  "description": "A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Checking this non-robustness directly poses a combinatorial optimization problem and is intractable even for simple models and moderate data sizes. Recently various authors have proposed a diverse set of approximations to detect this non-robustness. In the present work, we show that, even in a setting as simple as ordinary least squares (OLS) linear regression, many of these approximations can fail to detect (true) non-robustness in realistic data arrangements. We focus on OLS in the present work due its widespread use and since some approximations work only for OLS. Across our synthetic and real-world data sets, we find that a simple recursive greedy algorithm is the sole algorithm that does not fail any of our tests and also that it can be orders of magnitude faster to run than some competitors."
 }
 </script>
 
@@ -775,9 +775,9 @@
 
   <span >
       Jenny Y. Huang</span>, <span >
-      David R. Burt</span>, <span class="author-highlighted">
+      David R. Burt</span>, <span >
+      Yunyi Shen</span>, <span class="author-highlighted">
       Tin Nguyen</span>, <span >
-      Yunyi Shen</span>, <span >
       Tamara Broderick</span>
   </div>
   
@@ -829,12 +829,25 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2408.09008" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://openreview.net/pdf?id=m6EQ6YdPXV" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/drop-data-failure-modes/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/JennyHuang19/DataDroppingFailureModes" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -865,7 +878,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Finding the worst-case data subset to drop poses a combinatorial optimization problem. To overcome this intractability, recent works propose using additive approximations, which treat the contribution of a collection of data points as the sum of their individual contributions, and greedy approximations, which iteratively select the point with the highest impact to drop and re-run the data analysis without that point [Broderick et al., 2020, Kuschnig et al., 2021]. We identify that, even in a setting as simple as OLS linear regression, many of these approximations can break down in realistic data arrangements. Several of our examples reflect masking, where one outlier may hide or conceal the effect of another outlier. Based on the failures we identify, we provide recommendations for users and suggest directions for future improvements.</p>
+    <p class="pub-abstract">A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Checking this non-robustness directly poses a combinatorial optimization problem and is intractable even for simple models and moderate data sizes. Recently various authors have proposed a diverse set of approximations to detect this non-robustness. In the present work, we show that, even in a setting as simple as ordinary least squares (OLS) linear regression, many of these approximations can fail to detect (true) non-robustness in realistic data arrangements. We focus on OLS in the present work due its widespread use and since some approximations work only for OLS. Across our synthetic and real-world data sets, we find that a simple recursive greedy algorithm is the sole algorithm that does not fail any of our tests and also that it can be orders of magnitude faster to run than some competitors.</p>
     
 
     
@@ -876,8 +889,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#2">
+              Journal article
             </a>
           </div>
         </div>
@@ -887,6 +900,18 @@
     <div class="d-md-none space-below"></div>
     
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Transactions of Machine Learning Research</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -1045,6 +1070,12 @@
 
 
 
+
+  
+    
+
+
+
   
   
   
@@ -1149,12 +1180,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
 
 
   
